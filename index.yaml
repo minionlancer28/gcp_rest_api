@@ -1,0 +1,6 @@
+- kind: Offer
+  properties:
+  - name: name
+    direction: asc
+  - name: whiskers
+    direction: desc
